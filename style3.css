@@ -1,0 +1,62 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Pacifico&family=Playwrite+AR+Guides&family=Playwrite+US+Trad+Guides&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Pacifico&display=swap');
+p{
+color:  rgb(55, 47, 128);
+  font-family:Manrope ;
+ 
+  font-size: 1.1em;
+}
+
+
+h1{
+  
+  color :lightskyblue;
+  font-family:Pacifico;
+  font-size: 3.5em;
+ 
+  border-radius:10px ;
+ 
+  box-shadow: 6px 6px 25px rgb(187, 114, 197);
+
+ 
+}
+
+
+a {
+  color: rgb(214, 0, 64);
+  text-decoration: none;
+  font-size: 1em;
+  font-family: Manrope;
+}
+.rose{
+  color : rgba(201, 36, 162, 0.904)
+}
+.color{
+  color : rgba(148, 4, 4, 0.904)
+}
+.purple{
+  color:blueviolet
+}
+
+h2{
+  background: linear-gradient(90deg, #ffccff 0%, #33ccff 100%);
+color: rgba(255, 255, 255 );
+}
+body{
+  background: linear-gradient(90deg, #dbd2db 0%, #ffffff 100%);
+}
+
+
+a:focus{
+background-color: #e99cd2;
+}
+
+h3{
+  color: darkblue;
+}
+
+ 
